@@ -25,30 +25,30 @@ public class BaseTests {
         homePage = new HomePage(driver);
 
         //1 - Maximize the window
-        // driver.manage().window().maximize();
+        driver.manage().window().maximize();
 
         //2 - Fullscreen mode
-        // driver.manage().window().fullscreen();
+        driver.manage().window().fullscreen();
 
         //3 - Specific width (iPhoneX)
-        // driver.manage().window().setSize(new Dimension(375, 812));
+        driver.manage().window().setSize(new Dimension(375, 812));
 
-        // List<WebElement> links =  driver.findElements(By.tagName("a"));
-        // System.out.println(links.size());
+        List<WebElement> links =  driver.findElements(By.tagName("a"));
+        System.out.println(links.size());
+        
+        WebElement inputLink =  driver.findElement(By.linkText("Shifting Content"));
+        inputLink.click();
 
-        // WebElement inputLink =  driver.findElement(By.linkText("Shifting Content"));
-        // inputLink.click();
+        WebElement inputLink02 =  driver.findElement(By.linkText("Example 1: Menu Element"));
+        inputLink02.click();
 
-        // WebElement inputLink02 =  driver.findElement(By.linkText("Example 1: Menu Element"));
-        // inputLink02.click();
+        List<WebElement> links02 =  driver.findElements(By.tagName("li"));
+        System.out.println("Shifting Content: Menu Element " + links02.size());
 
-        // List<WebElement> links02 =  driver.findElements(By.tagName("li"));
-        // System.out.println("Shifting Content: Menu Element " + links02.size());
+        WebElement inputLink =  driver.findElement(By.linkText("Angie"));
+        inputLink.click();
 
-        /*WebElement inputLink =  driver.findElement(By.linkText("Angie"));
-        inputLink.click();*/
-
-        // System.out.println(driver.getTitle());
+        System.out.println(driver.getTitle());
     }
 
     @AfterClass
@@ -56,10 +56,10 @@ public class BaseTests {
         driver.quit();
     }
 
-    /*
+    
     public static void main(String args[]){
         BaseTests test = new BaseTests();
         test.setUp();
     }
-     */
+     
 }
