@@ -17,8 +17,6 @@ public class DropdownTests extends BaseTests {
         var selectedOption = dropDownPage.getSelectedOption();
         assertEquals(selectedOption.size(), 1, "Incorrect number of selections");
         assertTrue(selectedOption.contains(option), "Option not selected");
-
-
     }
 
 }
