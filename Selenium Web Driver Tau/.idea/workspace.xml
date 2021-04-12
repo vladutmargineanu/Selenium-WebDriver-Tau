@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e94cf1e-3b21-451d-b7f2-9c98a8ee0c49" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mxYfWTgAG2ejtAVYYtmLWbDILU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Learn Test Automation\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.DropdownTests">
+    <configuration name="BaseTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.BaseTests" />
+      <module name="webdriver_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DropdownTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webdriver_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dropdown.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dropdown" />
+      <option name="MAIN_CLASS_NAME" value="dropdown.DropdownTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webdriver_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="login" />
+      <option name="MAIN_CLASS_NAME" value="login.LoginTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DropdownTests" />
+        <item itemvalue="TestNG.LoginTests" />
+        <item itemvalue="Application.BaseTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e94cf1e-3b21-451d-b7f2-9c98a8ee0c49" name="Default Changelist" comment="" />
+      <created>1610436812944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610436812944</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1610438712488">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1610438712488" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1610449119123">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1610449119123" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1610454734678">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1610454734678" />
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1610467695301">
+      <screen x="1920" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.0.bottom/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1610451782762" />
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1610467695301" />
+    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1610467695300">
+      <screen x="1920" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.0.center/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1610451782762" />
+    <state width="1493" height="203" key="GridCell.Tab.0.center/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1610467695300" />
+    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1610467695300">
+      <screen x="1920" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.0.left/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1610451782761" />
+    <state width="1493" height="203" key="GridCell.Tab.0.left/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1610467695300" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1610467695300">
+      <screen x="1920" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1493" height="135" key="GridCell.Tab.0.right/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1610451782762" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1610467695300" />
+    <state width="1493" height="203" key="GridCell.Tab.1.bottom" timestamp="1610467695301">
+      <screen x="1920" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.1.bottom/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1610441959484" />
+    <state width="1493" height="203" key="GridCell.Tab.1.bottom/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1610467695301" />
+    <state width="1493" height="203" key="GridCell.Tab.1.center" timestamp="1610467695301">
+      <screen x="1920" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.1.center/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1610441959470" />
+    <state width="1493" height="203" key="GridCell.Tab.1.center/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1610467695301" />
+    <state width="1493" height="203" key="GridCell.Tab.1.left" timestamp="1610467695301">
+      <screen x="1920" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.1.left/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1610441959470" />
+    <state width="1493" height="203" key="GridCell.Tab.1.left/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1610467695301" />
+    <state width="1493" height="203" key="GridCell.Tab.1.right" timestamp="1610467695301">
+      <screen x="1920" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.1.right/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1610441959470" />
+    <state width="1493" height="203" key="GridCell.Tab.1.right/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1610467695301" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1610450660414">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1610450660414" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1610436815813">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1610436815813" />
+    <state x="209" y="114" key="new project wizard" timestamp="1610454738315">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="114" key="new project wizard/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1610454738315" />
+  </component>
+</project>
